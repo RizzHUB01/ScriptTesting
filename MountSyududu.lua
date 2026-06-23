@@ -3,3 +3,4 @@ local Window = WindUI:CreateWindow({
     Icon = "door-open", -- lucide icon. optional
     Author = "by .ftgs and .ftgs", -- optional
 })
+--
